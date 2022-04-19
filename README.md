@@ -1,1 +1,1 @@
-# Hi, I'm Glenn 👋
+Less, but better.
