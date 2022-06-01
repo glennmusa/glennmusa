@@ -14,4 +14,4 @@ Microsoft Inclusive Design Kit - [microsoft.com/design/inclusive](https://micros
 
 Getting Real by Basecamp - [https://basecamp.com/books/getting-real](https://basecamp.com/books/getting-real)
 
-Product Ownership in a Nutshell - [aka.ms/productownerinanutshell](aka.ms/productownerinanutshell)
+Product Ownership in a Nutshell - [aka.ms/productownerinanutshell](https://aka.ms/productownerinanutshell)
