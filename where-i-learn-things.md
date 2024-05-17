@@ -18,4 +18,4 @@ Measure What Matters by John Doerr - [aka.ms/mslibrary](http://link.overdrive.co
 
 Microsoft Inclusive Design Kit - [microsoft.com/design/inclusive](https://microsoft.com/design/inclusive)
 
-Getting Real by Basecamp - [https://basecamp.com/books/getting-real](https://basecamp.com/books/getting-real)
+Getting Real by Basecamp - [basecamp.com/books/getting-real](https://basecamp.com/books/getting-real)
